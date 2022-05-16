@@ -1,0 +1,40 @@
+body{
+
+    background-color:white;
+    text-align: center;
+    background-size:cover;
+    background-image: url(189e72fc63fe85458f3ed2077158d868.jpg);
+    color: aliceblue;
+    
+}
+
+h1{
+
+margin-top: 10px;
+margin-bottom: 10px;
+
+background-size:0ex
+font; white;
+
+
+}
+
+h2{
+   
+}
+
+button{
+
+    background: white;
+    
+}
+
+#increment-btn{
+
+    background: darkred;
+    padding-bottom: ;
+}
+
+#save-btn{
+background: darkgreen;
+}
