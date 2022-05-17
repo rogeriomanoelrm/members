@@ -1,10 +1,11 @@
 body{
 
-    background-color:white;
+    background-color:none;
     text-align: center;
     background-size:cover;
-    background-image: url(189e72fc63fe85458f3ed2077158d868.jpg);
+    background-image: url("church.jpg");
     color: aliceblue;
+  
     
 }
 
@@ -19,9 +20,6 @@ font; white;
 
 }
 
-h2{
-   
-}
 
 button{
 
@@ -33,8 +31,10 @@ button{
 
     background: darkred;
     padding-bottom: ;
+    color: aliceblue;
 }
 
 #save-btn{
 background: darkgreen;
+color: aliceblue;
 }
